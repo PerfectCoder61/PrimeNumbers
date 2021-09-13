@@ -2,13 +2,13 @@
 ***Codes to Find Prime Number***
 
 
-Code1.cpp | A Code That find and print all prime numbers 2 to N
-          | O(N sqrt(N))
-          | optimal maximum input size 10^7
-          |
-          |
-          |
-          |
+Code1.cpp | A Code That find and print all prime numbers 2 to N  
+          | O(N sqrt(N))  
+          | optimal maximum input size 10^7  
+          |  
+          |  
+          |  
+          |  
           
           
           ---
