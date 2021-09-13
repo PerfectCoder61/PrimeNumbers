@@ -13,7 +13,7 @@ Code1.cpp | A Code That find and print all prime numbers 2 to N
           |       5   5
           |           6
           |           7
-          
+           
 Code2.cpp | NOT READY YET
           | it will store all before prime numbers and will try only them
           | for example when we are looking for 23 there must be a array that store primes before 23 
