@@ -2,6 +2,7 @@
 #include<cmath>			// sqrt() function
 using namespace std;	
 
+// Complexity: O(N*log(N))
 
 int main(){				
 	ios::sync_with_stdio(false);
